@@ -1,0 +1,92 @@
+body {
+  font-family: Ubuntu;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: rgb(64,64,66);
+  font-family: Ubuntu;
+}
+
+a {
+  color: rgb(26,72,227);
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+}
+ 
+a:hover {
+  color: rgb(18, 50, 158);
+
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 50px;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 45px;
+  margin: 20px;
+}
+
+.banner p {
+  font-size: 24px;
+  color: rgb(64,64,66);
+}
+
+.body {
+  margin: 25px;
+
+}
+.body h2 {
+  margin: 10px;
+}
+
+
+.body li{
+  padding: 5px;
+}
+
+.footer {
+  background: rgb(64,64,66);
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.footer p {
+  color: white;
+}
+
+
+/*@media (max-width: 800px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .card-white {
+    width: auto;
+  }
+}
+  
+@media (min-width: 500px) {
+  .container {
+    width: 400px;
+  }
+}
+
+
+@media (min-width: 800px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .container {
+    width: 800px;
+  }
+}
+*/
