@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(64,64,66);
+  background-color: rgb(14,17,23);
   font-family: Ubuntu;
   margin: 0;
 }
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .footer {
-  background: black;
+  background: rgb(0,0,10);
   text-align: center;
   padding: 10px 0px;
 }
